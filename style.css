@@ -1,0 +1,11 @@
+body{
+
+	background-image: url("1.jpg");
+}
+
+.menu{
+width: 500px;
+text-align: center;
+background-color: yellow;
+border: 2px black solid;
+}
